@@ -1,0 +1,12 @@
+{
+  "description": {
+    "service_name": "中级培训课程配套demo工程",
+    "maintainer_group": "微服务平台",
+    "maintainer_name": "刘岳峰",
+    "maintainer_telephone": "18511112887"
+  },
+  "env": {
+  },
+  "labels": {
+  }
+}
